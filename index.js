@@ -5,6 +5,8 @@ const port = 3000;
 
 // all chef data
 const allchefjson = require("./jsonData/chefInfo.json");
+// all recipe data
+const allrecipes = require("./jsonData/recipes.json");
 app.use(cors());
 app.use(express.json());
 app.get("/", (req, res) => {
