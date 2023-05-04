@@ -12,10 +12,12 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
+
 // route to serve all chef data
 app.get("/allchef", (req, res) => {
   res.send(allchefjson);
 });
+
 // route to serve specific chef data
 app.get("/allchef/:id", (req, res) => {
   let reqparams = req.params;
@@ -23,6 +25,11 @@ app.get("/allchef/:id", (req, res) => {
     (chef) => chef.id === parseInt(reqparams.id)
   );
   res.send(requested_chef);
+});
+
+// route to serve recipes data
+app.get("/allrecipes", (req, res) => {
+  res.send(allrecipes);
 });
 
 app.listen(port, () => {
