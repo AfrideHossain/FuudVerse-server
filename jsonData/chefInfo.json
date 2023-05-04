@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefName": "John Smith",
+    "gender": "Male",
+    "yearsOfExperience": 10,
+    "numRecipes": 50,
+    "likes": 489
+  },
+  {
+    "id": 2,
+    "chefName": "Adam Jones",
+    "gender": "Male",
+    "yearsOfExperience": 8,
+    "numRecipes": 60,
+    "likes": 367
+  },
+  {
+    "id": 3,
+    "chefName": "Peter Brown",
+    "gender": "Male",
+    "yearsOfExperience": 12,
+    "numRecipes": 70,
+    "likes": 567
+  },
+  {
+    "id": 4,
+    "chefName": "Anna Lee",
+    "gender": "Female",
+    "yearsOfExperience": 6,
+    "numRecipes": 40,
+    "likes": 487
+  },
+  {
+    "id": 5,
+    "chefName": "Rachel Chen",
+    "gender": "Female",
+    "yearsOfExperience": 9,
+    "numRecipes": 80,
+    "likes": 557
+  },
+  {
+    "id": 6,
+    "chefName": "Emma Davis",
+    "gender": "Female",
+    "yearsOfExperience": 5,
+    "numRecipes": 30,
+    "likes": 367
+  }
+]
