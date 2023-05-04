@@ -10,8 +10,17 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
+// route to serve all chef data
 app.get("/allchef", (req, res) => {
   res.send(allchefjson);
+});
+// route to serve specific chef data
+app.get("/allchef/:id", (req, res) => {
+  let reqparams = req.params;
+  let requested_chef = allchefjson.find(
+    (chef) => chef.id === parseInt(reqparams.id)
+  );
+  res.send(requested_chef);
 });
 
 app.listen(port, () => {
