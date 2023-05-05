@@ -2,6 +2,8 @@
   {
     "id": 1,
     "chefName": "John Smith",
+    "chefImg": "https://i.ibb.co/YhRNH2J/michael-wave-CYn-QUywz-Bt-I-unsplash-1.jpg",
+    "bio": "John is a classically trained chef who has worked in some of the best restaurants in the world. He is known for his innovative dishes that combine traditional techniques with modern flavors.",
     "gender": "Male",
     "yearsOfExperience": 10,
     "numRecipes": 50,
@@ -10,6 +12,8 @@
   {
     "id": 2,
     "chefName": "Adam Jones",
+    "chefImg": "https://i.ibb.co/51P8c9x/chef-with-pan-copy-space.jpg",
+    "bio": "Adam grew up in a family of chefs and learned to cook at a young age. He specializes in comfort food and is always looking for new ways to reinvent classic dishes.",
     "gender": "Male",
     "yearsOfExperience": 8,
     "numRecipes": 60,
@@ -18,6 +22,8 @@
   {
     "id": 3,
     "chefName": "Peter Brown",
+    "chefImg": "https://i.ibb.co/D1RnMTr/happy-young-cook-uniform-holding-salad.jpg",
+    "bio": "Peter is a self-taught chef who has a passion for using fresh, locally sourced ingredients. He is known for his rustic, farm-to-table style of cooking.",
     "gender": "Male",
     "yearsOfExperience": 12,
     "numRecipes": 70,
@@ -26,6 +32,8 @@
   {
     "id": 4,
     "chefName": "Anna Lee",
+    "chefImg": "https://i.ibb.co/TmLcx2Y/female-chef-chopping-vegetables-kitchen.jpg",
+    "bio": "Anna is a Korean-American chef who blends traditional Korean flavors with modern techniques. She is passionate about using bold, spicy flavors and is always experimenting with new ingredients.",
     "gender": "Female",
     "yearsOfExperience": 6,
     "numRecipes": 40,
@@ -34,6 +42,8 @@
   {
     "id": 5,
     "chefName": "Rachel Chen",
+    "chefImg": "https://i.ibb.co/C15XF0w/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
+    "bio": "Rachel is a pastry chef who is known for her beautiful and delicious desserts. She uses only the highest quality ingredients and is always creating new and innovative flavor combinations.",
     "gender": "Female",
     "yearsOfExperience": 9,
     "numRecipes": 80,
@@ -42,6 +52,8 @@
   {
     "id": 6,
     "chefName": "Emma Davis",
+    "chefImg": "https://i.ibb.co/F4J9RcC/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
+    "bio": "Emma is a vegan chef who specializes in creating delicious and healthy plant-based meals. She is passionate about using seasonal, organic ingredients and is always experimenting with new flavors and techniques.",
     "gender": "Female",
     "yearsOfExperience": 5,
     "numRecipes": 30,
